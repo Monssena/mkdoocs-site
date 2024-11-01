@@ -1,0 +1,16 @@
+/* Пример кастомных стилей */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #7d22b8;
+}
+
+a.nav-link {
+    color: #ff6600;
+}
+
+a.nav-link:hover {
+    color: #ff9933;
+}

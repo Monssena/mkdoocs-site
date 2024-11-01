@@ -1,1 +1,10 @@
 site_name: My Docs
+theme:
+  name: null
+  custom_dir: theme
+nav:
+  - Home: index.md
+  - Bootstrap: template.md
+  - Contact: pageInfo.md
+extra_css:
+  - theme/styles.css
